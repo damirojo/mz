@@ -1,0 +1,126 @@
+﻿	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 31/08/2016 10:01
+  	*/
+
+@font-face {
+  font-family: "flaticon-eco-set2";
+  src: url("../fonts/flaticons/flaticon-eco-set2.eot");
+  src: url("../fonts/flaticons/flaticon-eco-set2-1.eot") format("embedded-opentype"),
+       url("../fonts/flaticons/flaticon-eco-set2.woff") format("woff"),
+       url("../fonts/flaticons/flaticon-eco-set2.ttf") format("truetype"),
+       url("../fonts/flaticons/flaticon-eco-set2.svg#flaticon-eco-set2") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "flaticon-eco-set2";
+    src: url("../fonts/flaticons/flaticon-eco-set2.svg#flaticon-eco-set2") format("svg");
+  }
+}
+
+[class^="flaticon-eco-set2"]:before, [class*=" flaticon-eco-set2"]:before,
+[class^="flaticon-eco-set2"]:after, [class*=" flaticon-eco-set2"]:after {   
+  font-family: "flaticon-eco-set2";
+        /* font-size: 20px; */
+font-style: normal;
+/* margin-left: 20px; */
+}
+
+.flaticon-eco-set2-arrows:before { content: "\f100"; }
+.flaticon-eco-set2-avatar:before { content: "\f101"; }
+.flaticon-eco-set2-axe:before { content: "\f102"; }
+.flaticon-eco-set2-battery:before { content: "\f103"; }
+.flaticon-eco-set2-battery-1:before { content: "\f104"; }
+.flaticon-eco-set2-birdhouse:before { content: "\f105"; }
+.flaticon-eco-set2-bucket:before { content: "\f106"; }
+.flaticon-eco-set2-bucket-1:before { content: "\f107"; }
+.flaticon-eco-set2-bucket-2:before { content: "\f108"; }
+.flaticon-eco-set2-circle:before { content: "\f109"; }
+.flaticon-eco-set2-droplet:before { content: "\f10a"; }
+.flaticon-eco-set2-egg:before { content: "\f10b"; }
+.flaticon-eco-set2-electric-car:before { content: "\f10c"; }
+.flaticon-eco-set2-energy:before { content: "\f10d"; }
+.flaticon-eco-set2-fence:before { content: "\f10e"; }
+.flaticon-eco-set2-file:before { content: "\f10f"; }
+.flaticon-eco-set2-file-1:before { content: "\f110"; }
+.flaticon-eco-set2-fire:before { content: "\f111"; }
+.flaticon-eco-set2-fire-1:before { content: "\f112"; }
+.flaticon-eco-set2-flower:before { content: "\f113"; }
+.flaticon-eco-set2-footprint:before { content: "\f114"; }
+.flaticon-eco-set2-fork:before { content: "\f115"; }
+.flaticon-eco-set2-hand:before { content: "\f116"; }
+.flaticon-eco-set2-hand-1:before { content: "\f117"; }
+.flaticon-eco-set2-honeycomb:before { content: "\f118"; }
+.flaticon-eco-set2-hose:before { content: "\f119"; }
+.flaticon-eco-set2-house:before { content: "\f11a"; }
+.flaticon-eco-set2-insecticide:before { content: "\f11b"; }
+.flaticon-eco-set2-joy:before { content: "\f11c"; }
+.flaticon-eco-set2-lawnmower:before { content: "\f11d"; }
+.flaticon-eco-set2-leaf:before { content: "\f11e"; }
+.flaticon-eco-set2-leaf-1:before { content: "\f11f"; }
+.flaticon-eco-set2-leaves:before { content: "\f120"; }
+.flaticon-eco-set2-leaves-1:before { content: "\f121"; }
+.flaticon-eco-set2-leaves-2:before { content: "\f122"; }
+.flaticon-eco-set2-light-bulb:before { content: "\f123"; }
+.flaticon-eco-set2-monitor:before { content: "\f124"; }
+.flaticon-eco-set2-nuclear:before { content: "\f125"; }
+.flaticon-eco-set2-pawprint:before { content: "\f126"; }
+.flaticon-eco-set2-pear:before { content: "\f127"; }
+.flaticon-eco-set2-plant:before { content: "\f128"; }
+.flaticon-eco-set2-plant-1:before { content: "\f129"; }
+.flaticon-eco-set2-plant-10:before { content: "\f12a"; }
+.flaticon-eco-set2-plant-11:before { content: "\f12b"; }
+.flaticon-eco-set2-plant-12:before { content: "\f12c"; }
+.flaticon-eco-set2-plant-13:before { content: "\f12d"; }
+.flaticon-eco-set2-plant-14:before { content: "\f12e"; }
+.flaticon-eco-set2-plant-15:before { content: "\f12f"; }
+.flaticon-eco-set2-plant-16:before { content: "\f130"; }
+.flaticon-eco-set2-plant-17:before { content: "\f131"; }
+.flaticon-eco-set2-plant-18:before { content: "\f132"; }
+.flaticon-eco-set2-plant-19:before { content: "\f133"; }
+.flaticon-eco-set2-plant-2:before { content: "\f134"; }
+.flaticon-eco-set2-plant-20:before { content: "\f135"; }
+.flaticon-eco-set2-plant-21:before { content: "\f136"; }
+.flaticon-eco-set2-plant-22:before { content: "\f137"; }
+.flaticon-eco-set2-plant-3:before { content: "\f138"; }
+.flaticon-eco-set2-plant-4:before { content: "\f139"; }
+.flaticon-eco-set2-plant-5:before { content: "\f13a"; }
+.flaticon-eco-set2-plant-6:before { content: "\f13b"; }
+.flaticon-eco-set2-plant-7:before { content: "\f13c"; }
+.flaticon-eco-set2-plant-8:before { content: "\f13d"; }
+.flaticon-eco-set2-plant-9:before { content: "\f13e"; }
+.flaticon-eco-set2-plug:before { content: "\f13f"; }
+.flaticon-eco-set2-pollution:before { content: "\f140"; }
+.flaticon-eco-set2-pot:before { content: "\f141"; }
+.flaticon-eco-set2-rake:before { content: "\f142"; }
+.flaticon-eco-set2-recycle:before { content: "\f143"; }
+.flaticon-eco-set2-recycle-1:before { content: "\f144"; }
+.flaticon-eco-set2-recycle-2:before { content: "\f145"; }
+.flaticon-eco-set2-recycle-3:before { content: "\f146"; }
+.flaticon-eco-set2-recycle-4:before { content: "\f147"; }
+.flaticon-eco-set2-recycle-5:before { content: "\f148"; }
+.flaticon-eco-set2-shopping-cart:before { content: "\f149"; }
+.flaticon-eco-set2-shovel:before { content: "\f14a"; }
+.flaticon-eco-set2-shovel-1:before { content: "\f14b"; }
+.flaticon-eco-set2-socket:before { content: "\f14c"; }
+.flaticon-eco-set2-socket-1:before { content: "\f14d"; }
+.flaticon-eco-set2-sockets:before { content: "\f14e"; }
+.flaticon-eco-set2-solar-panel:before { content: "\f14f"; }
+.flaticon-eco-set2-spatula:before { content: "\f150"; }
+.flaticon-eco-set2-spray:before { content: "\f151"; }
+.flaticon-eco-set2-sprout:before { content: "\f152"; }
+.flaticon-eco-set2-sprout-1:before { content: "\f153"; }
+.flaticon-eco-set2-tag:before { content: "\f154"; }
+.flaticon-eco-set2-trees:before { content: "\f155"; }
+.flaticon-eco-set2-tweezers:before { content: "\f156"; }
+.flaticon-eco-set2-up-arrow:before { content: "\f157"; }
+.flaticon-eco-set2-usb:before { content: "\f158"; }
+.flaticon-eco-set2-water:before { content: "\f159"; }
+.flaticon-eco-set2-water-bug:before { content: "\f15a"; }
+.flaticon-eco-set2-watering-can:before { content: "\f15b"; }
+.flaticon-eco-set2-wheelbarrow:before { content: "\f15c"; }
+.flaticon-eco-set2-wheelbarrow-1:before { content: "\f15d"; }
+.flaticon-eco-set2-windmill:before { content: "\f15e"; }

@@ -1,0 +1,61 @@
+﻿	/*
+  	flaticon-eco-set1 icon font: Flaticon
+  	Creation date: 22/06/2016 15:35
+  	*/
+
+@font-face {
+  font-family: "flaticon-eco-set1";
+  src: url("../fonts/flaticons/flaticon-eco-set1.eot");
+  src: url("../fonts/flaticons/flaticon-eco-set1-1.eot") format("embedded-opentype"),
+       url("../fonts/flaticons/flaticon-eco-set1.woff") format("woff"),
+       url("../fonts/flaticons/flaticon-eco-set1.ttf") format("truetype"),
+       url("../fonts/flaticons/flaticon-eco-set1.svg#flaticon-eco-set1") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "flaticon-eco-set1";
+    src: url("../fonts/flaticons/flaticon-eco-set1.svg#flaticon-eco-set1") format("svg");
+  }
+}
+
+[class^="flaticon-eco-set1"]:before, [class*=" flaticon-eco-set1"]:before,
+[class^="flaticon-eco-set1"]:after, [class*=" flaticon-eco-set1"]:after {   
+  font-family: "flaticon-eco-set1";
+        /* font-size: 20px; */
+font-style: normal;
+/* margin-left: 20px; */
+}
+
+.flaticon-eco-set1-barn:before { content: "\f100"; }
+.flaticon-eco-set1-battery:before { content: "\f101"; }
+.flaticon-eco-set1-bonfire:before { content: "\f102"; }
+.flaticon-eco-set1-bonfire-1:before { content: "\f103"; }
+.flaticon-eco-set1-cactus:before { content: "\f104"; }
+.flaticon-eco-set1-drop:before { content: "\f105"; }
+.flaticon-eco-set1-earth:before { content: "\f106"; }
+.flaticon-eco-set1-electric-vehicle:before { content: "\f107"; }
+.flaticon-eco-set1-flower:before { content: "\f108"; }
+.flaticon-eco-set1-flower-1:before { content: "\f109"; }
+.flaticon-eco-set1-light-bulb:before { content: "\f10a"; }
+.flaticon-eco-set1-light-bulb-1:before { content: "\f10b"; }
+.flaticon-eco-set1-nuclear:before { content: "\f10c"; }
+.flaticon-eco-set1-palm-tree:before { content: "\f10d"; }
+.flaticon-eco-set1-plant:before { content: "\f10e"; }
+.flaticon-eco-set1-plug:before { content: "\f10f"; }
+.flaticon-eco-set1-recycling:before { content: "\f110"; }
+.flaticon-eco-set1-sea:before { content: "\f111"; }
+.flaticon-eco-set1-socket:before { content: "\f112"; }
+.flaticon-eco-set1-socket-1:before { content: "\f113"; }
+.flaticon-eco-set1-sorting:before { content: "\f114"; }
+.flaticon-eco-set1-sprout:before { content: "\f115"; }
+.flaticon-eco-set1-sprout-1:before { content: "\f116"; }
+.flaticon-eco-set1-tap:before { content: "\f117"; }
+.flaticon-eco-set1-thunder:before { content: "\f118"; }
+.flaticon-eco-set1-tree:before { content: "\f119"; }
+.flaticon-eco-set1-tree-1:before { content: "\f11a"; }
+.flaticon-eco-set1-water:before { content: "\f11b"; }
+.flaticon-eco-set1-water-1:before { content: "\f11c"; }
+.flaticon-eco-set1-windmill:before { content: "\f11d"; }
